@@ -420,6 +420,9 @@ h6,
   font-size: 24px;
   text-align: right;
 }
+#content1-e P {
+  text-align: left;
+}
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
   text-align: center;
@@ -433,9 +436,6 @@ h6,
   color: #ff0000;
   text-align: right;
   font-size: 12px;
-}
-#content1-e P {
-  text-align: left;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
