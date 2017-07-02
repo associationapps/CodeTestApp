@@ -411,6 +411,15 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-d .mbr-section-title,
+#header3-d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-d H3 {
+  color: #ffffff;
+  font-size: 24px;
+  text-align: right;
+}
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
   text-align: center;
@@ -424,15 +433,6 @@ h6,
   color: #ff0000;
   text-align: right;
   font-size: 12px;
-}
-#header3-d .mbr-section-title,
-#header3-d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-d H3 {
-  color: #ffffff;
-  font-size: 24px;
-  text-align: right;
 }
 #content1-e P {
   text-align: left;
