@@ -203,7 +203,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
