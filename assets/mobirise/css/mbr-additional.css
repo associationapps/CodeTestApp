@@ -429,6 +429,9 @@ h6,
 #header3-d .mbr-section-subtitle {
   text-align: center;
 }
+#header3-d H3 {
+  color: #ffffff;
+}
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
