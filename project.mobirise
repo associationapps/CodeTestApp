@@ -271,7 +271,7 @@
             "paddingBottom": 1,
             "bgColor": "#000080"
           },
-          "text": "<p>President Bob Smith</p><p>407-927-5207</p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-white\">bsmith@bsmith.com</a></p><p><br></p><p>Vice-President Jill Jones</p><p>407-927-5207</p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-white\">jjones@jjones.com</a></p><p><br></p><p>Sec/Tres Betty White</p><p>407-927-5207</p><p><a href=\"mailto:bwhite.com\" class=\"text-white\">bwhite@bwhite.com</a></p><p><b><br></b></p><p><b><a href=\"index.html\" class=\"text-danger\">Back to Home</a></b></p>",
+          "text": "<p>President Bob Smith</p><p><a href=\"&lt;a href=&quot;tel:+14079275207&quot;&gt;407-927-5207&lt;/a&gt;\" class=\"text-white\">407-927-5207</a></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-white\">bsmith@bsmith.com</a></p><p><br></p><p>Vice-President Jill Jones</p><p>407-927-5207</p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-white\">jjones@jjones.com</a></p><p><br></p><p>Sec/Tres Betty White</p><p>407-927-5207</p><p><a href=\"mailto:bwhite.com\" class=\"text-white\">bwhite@bwhite.com</a></p><p><b><br></b></p><p><b><a href=\"index.html\" class=\"text-danger\">Back to Home</a></b></p>",
           "_styles": {
             "P": {
               "color": "#ffffff",
