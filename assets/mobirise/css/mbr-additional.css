@@ -503,3 +503,7 @@ h6,
 #header5-t .mbr-section-lead {
   color: #9c9a9a;
 }
+#header5-t .mbr-section-title P {
+  text-align: center;
+  font-size: 46px;
+}
