@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -324,13 +324,13 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1f",
+          "_anchor": "content1-1g",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#b8312f"
           },
-          "text": "<p><a href=\"http://\"></a></p><div class=\"graph-outline\"><a href=\"http://\" class=\"text-white\">     <object style=\"width:100%;\" data=\"http://www.pdf995.com/samples/pdf.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0\" type=\"application/pdf\">     <embed src=\"http://www.pdf995.com/samples/pdf.pdf?#zoom=85&amp;scrollbar=0&amp;toolbar=0&amp;navpanes=0\" type=\"application/pdf\">     </object> </a></div><p></p>"
+          "text": "<p><a href=\"#\"><embed width=\"600\" height=\"450\" src=\"http://www.pdf995.com/samples/pdf.pdf\" type=\"application/pdf\"></a></p>"
         }
       ]
     }
