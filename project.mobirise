@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#000080",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#ffffff",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 41,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -89,7 +89,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000080!important"
             }
           },
           "_name": "ext.menu",
@@ -217,51 +217,69 @@
       },
       "components": [
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "13px"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            },
-            ".mbr-section-title P": {
-              "text-align": "center",
-              "font-size": "46px"
-            },
-            ".mbr-section-lead LI": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-t",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000080",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            }
           },
-          "title": "<p><a href=\"index.html\"><small><bold>x</bold></small>&nbsp;</a><a href=\"index.html\"><large><bold></bold></large></a><a href=\"index.html\"><large><bold></bold></large></a><a href=\"index.html\"><large><bold></bold></large></a><a href=\"index.html\"><small><bold></bold></small></a> &nbsp;</p><p>Board of Directors</p>",
-          "text": "<p><a href=\"http://\"></a></p><li><a href=\"http://\" class=\"text-white\">President Bob Smith</a><a href=\"http://\"><bold<president bo=\"\" smith<=\"\" li=\"\"></bold<president></a>&nbsp;</li><li><a href=\"http://\" class=\"text-white\">407-407-4078</a></li><li>bsmith@bsmith.com<a href=\"http://\"><br></a><a href=\"mailto:bsmith@bsmith.com\"></a><a href=\"mailto:bsmith@bsmith.com\"></a><a href=\"mailto:bsmith@bsmith.com\" class=\"text-white\"></a></li><li>Vice-President        Jill Jones</li><li><a href=\"http://\">407-404-4078</a></li><li>jjones@jjones.com</li><a href=\"http://\"> <br><li>Sec/Tres        Betty White</li></a><li>407-404-4078</li><p></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+          "_anchor": "content1-10",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#000080"
+          },
+          "text": "<h1>Board of Directors&nbsp;</h1>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-11",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000080"
+          },
+          "text": "<p>Welcome to your Board of Directors' home page. &nbsp;Don't forget to visit our management company, Specialty Managment Company, at <b><a href=\"http://greatcommunities.com\" target=\"_blank\" class=\"text-white\">greatcommunities.com</a> </b>&nbsp;We hope you enjoy our little app. &nbsp;We made it just for you.</p><p><br></p><p>Your Board of Directors are:</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000080"
+          },
+          "text": "<p><b>President Bob Smith</b></p><p><b>407-927-5207</b></p><p><b>bsmith@bsmith.com</b></p><p><br></p><p><b>Vice-President Jill Jones</b></p><p><b>407-927-5207</b></p><p><b>jjones@jjones.com</b></p><p><br></p><p><b>Sec/Tres Betty White</b></p><p><b>407-927-5207</b></p><p><b>bwhite@bwhite.com</b></p><p><b><br></b></p><p><b><a href=\"index.html\" class=\"text-danger\">Back to Home</a></b></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            }
+          }
         }
       ]
     }
