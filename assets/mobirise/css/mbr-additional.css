@@ -495,3 +495,11 @@ h6,
 #menu-f .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header5-t .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 13px;
+}
+#header5-t .mbr-section-lead {
+  color: #9c9a9a;
+}
