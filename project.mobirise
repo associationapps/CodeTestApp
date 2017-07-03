@@ -260,7 +260,7 @@
             "showButtons": true
           },
           "title": "<p><a href=\"index.html\"><small><bold>x</bold></small>&nbsp;</a><a href=\"index.html\"><large><bold></bold></large></a><a href=\"index.html\"><large><bold></bold></large></a><a href=\"index.html\"><large><bold></bold></large></a><a href=\"index.html\"><small><bold></bold></small></a> &nbsp;</p><p>Board of Directors</p>",
-          "text": "<p><a href=\"http://\"></a></p><li><a href=\"http://\" class=\"text-white\">President Bob Smith</a><a href=\"http://\"><bold<president bo=\"\" smith<=\"\" li=\"\"></bold<president></a>&nbsp;</li><li><a href=\"http://\" class=\"text-white\">407-407-4078</a></li><li><a href=\"mailto:bsmith@bsmith.com\" class=\"text-white\">bsmith@bsmith.com</a></li><a href=\"http://\"> <br><li>Vice-President        Jill Jones</li><li>407-404-4078</li><li>jjones@jjones.com</li> <br><li>Sec/Tres        Betty White</li><li>407-404-4078</li></a><p></p>",
+          "text": "<p><a href=\"http://\"></a></p><li><a href=\"http://\" class=\"text-white\">President Bob Smith</a><a href=\"http://\"><bold<president bo=\"\" smith<=\"\" li=\"\"></bold<president></a>&nbsp;</li><li><a href=\"http://\" class=\"text-white\">407-407-4078</a></li><li><a href=\"mailto:bsmith@bsmith.com\" class=\"text-white\">bsmith@bsmith.com</a></li><a href=\"http://\"> </a><br><a href=\"http://\"><li>Vice-President        Jill Jones</li><li>407-404-4078</li><li>jjones@jjones.com</li> <br><li>Sec/Tres        Betty White</li></a><li>407-404-4078</li><p></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
