@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -70,13 +70,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#00004d"
+              "background": "#cc8400"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000071!important"
+              "background": "#f09b00!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000080"
+              "background": "#ffa500"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -95,7 +95,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-u",
           "_params": {
-            "bgColor": "#000080",
+            "bgColor": "#ffa500",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -130,7 +130,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "24px",
               "text-align": "right"
             }
@@ -141,9 +141,9 @@
           "_name": "header3",
           "_anchor": "header3-d",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000080",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffa500",
             "showMeta": false
           },
           "title": "Lady Lake Homeowner's Association",
@@ -192,6 +192,10 @@
               "color": "#ff0000",
               "text-align": "right",
               "font-size": "12px"
+            },
+            "P": {
+              "color": "#000000",
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -202,11 +206,11 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#000080",
+            "bgColor": "#ffa500",
             "showMeta": true
           },
           "title": "",
-          "meta": "<p><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a>&nbsp;Brought To You By KrazyDaw Apps</p>"
+          "meta": "<p><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a><b>&nbsp;Brought To Yo</b><b style=\"font-size: 14px;\">u By KrazyDaw Apps</b></p>"
         }
       ]
     },
@@ -233,7 +237,8 @@
               "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "25px"
+              "font-size": "25px",
+              "color": "#000000"
             }
           },
           "_anchor": "content1-10",
@@ -242,7 +247,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffa500"
           },
-          "text": "<p>Board of Directors&nbsp;</p>"
+          "text": "<p><b>Board of Directors&nbsp;</b></p>"
         },
         {
           "_tags": [
@@ -254,7 +259,7 @@
               "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "14px",
+              "font-size": "16px",
               "text-align": "left"
             }
           },
@@ -264,7 +269,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffa500"
           },
-          "text": "<p>Welcome to your Board of Directors' home page. &nbsp;Don't forget to visit our management company, Specialty Managment Company, at <b><a href=\"http://greatcommunities.com\" target=\"_blank\" class=\"text-white\">greatcommunities.com</a> </b>&nbsp;We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. <a href=\"http://greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" target=\"_blank\" class=\"text-white\">&nbsp;Click To Pay </a>.</p><p><br></p><p>Your Board of Directors are:</p>"
+          "text": "<p>Welcome to your Board of Directors' home page. &nbsp;Don't forget to visit our management company, Specialty Managment Company, at&nbsp;<b style=\"font-size: 14px; line-height: 1.5;\"><a href=\"http://greatcommunities.com\" target=\"_blank\" class=\"text-white\">greatcommunities.com</a> </b><span style=\"font-size: 14px; line-height: 1.5;\">&nbsp;We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. </span><a href=\"http://greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" target=\"_blank\" class=\"text-white\" style=\"font-size: 14px; background-color: rgb(255, 165, 0); line-height: 1.5;\">&nbsp;Click To Pay </a><span style=\"font-size: 14px; line-height: 1.5;\">.</span></p><p><br></p><p>Your Board of Directors are:</p>"
         },
         {
           "_tags": [
@@ -301,6 +306,12 @@
               "color": "#ff0000",
               "text-align": "right",
               "font-size": "12px"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -315,7 +326,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<p><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a>&nbsp;Brought To You By KrazyDaw Apps</p>"
+          "meta": "<p><b><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a>&nbsp;Brought To You By KrazyDaw Apps</b></p>"
         }
       ]
     },
@@ -337,11 +348,11 @@
           },
           "_anchor": "content1-1q",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#0000ff"
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffa500"
           },
-          "text": "<p><b><a href=\"https://associationapps.wufoo.com/forms/q6vzn9a08s3d65/\" class=\"text-white\">Cllick</a> </b>To Submit our form.</p>"
+          "text": "<p><b><a href=\"https://associationapps.wufoo.com/forms/q6vzn9a08s3d65/\" class=\"text-white\">Cllick</a> To Submit our form.</b></p>"
         }
       ]
     }
