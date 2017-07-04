@@ -213,7 +213,7 @@
     "page1.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": " <meta name=\"format-detection\" content=\"telephone=no\" />"
+        "meta_descr": ""
       },
       "components": [
         {
