@@ -330,7 +330,7 @@
             "paddingBottom": 1,
             "bgColor": "#0000ff"
           },
-          "text": "<p><b>Cllick </b>To Submit our form.</p>",
+          "text": "<p><b><a href=\"https://associationapps.wufoo.com/forms/q6vzn9a08s3d65/\" class=\"text-white\">Cllick</a> </b>To Submit our form.</p>",
           "_styles": {
             "P": {
               "color": "#ffffff"
