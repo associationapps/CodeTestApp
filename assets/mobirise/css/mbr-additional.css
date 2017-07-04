@@ -498,20 +498,26 @@ h6,
 
 
 
+
 #content1-10 H1 {
   text-align: center;
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-size: 36px;
 }
+#content1-10 P {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
 #content1-11 P {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   text-align: left;
 }
 #content1-14 P {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
