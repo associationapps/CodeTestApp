@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 55,
+    "uniqCompNum": 56,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -331,6 +331,19 @@
             "bgColor": "#fac51c"
           },
           "text": "<p><b><a href=\"file:///C:/Users/prope/Desktop/2016%20Midstate%20Proposal%20for%20bod%20approval.pdf\">Make&nbsp;</a></b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make</p>"
         }
       ]
     }
