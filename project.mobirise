@@ -277,7 +277,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#f3c649"
+            "bgColor": "#000080"
           },
           "text": "<p>President Bob Smith</p><p>4&amp;zwnj;07-927-5207</p><p><b>407-927-5207</b></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-white\">bsmith@bsmith.com</a></p><p><br></p><p>Vice-President Jill Jones</p><p><b>407-927-5207</b></p><p><b>407-927-5207</b></p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-white\">jjones@jjones.com</a></p><p><br></p><p>Sec/Tres Betty White</p><p>407-927-5207</p><p>407-927-5207</p><p><a href=\"mailto:bwhite.com\" class=\"text-white\">bwhite@bwhite.com</a></p><p><br></p><p><b><a href=\"index.html\" class=\"text-danger\">Back to Home</a></b></p>"
         },
