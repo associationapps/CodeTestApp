@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -258,7 +258,7 @@
             "paddingBottom": "0",
             "bgColor": "#000080"
           },
-          "text": "<p>Welcome to your Board of Directors' home page. &nbsp;Don't forget to visit our management company, Specialty Managment Company, at <b><a href=\"http://greatcommunities.com\" target=\"_blank\" class=\"text-white\">greatcommunities.com</a> </b>&nbsp;We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app 407-927-5207. <a href=\"http://greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" target=\"_blank\" class=\"text-white\">&nbsp;Click To Pay </a>.</p><p><br></p><p>Your Board of Directors are:</p>"
+          "text": "<p>Welcome to your Board of Directors' home page. &nbsp;Don't forget to visit our management company, Specialty Managment Company, at <b><a href=\"http://greatcommunities.com\" target=\"_blank\" class=\"text-white\">greatcommunities.com</a> </b>&nbsp;We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app 4&amp;zwnj;07-927-5207. <a href=\"http://greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" target=\"_blank\" class=\"text-white\">&nbsp;Click To Pay </a>.</p><p><br></p><p>Your Board of Directors are:</p>"
         },
         {
           "_tags": [
@@ -324,18 +324,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-1q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#0000ff"
           },
-          "text": "<p><b><a href=\"https://associationapps.wufoo.com/forms/q6vzn9a08s3d65/\" class=\"text-white\">Cllick</a> </b>To Submit our form.</p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p><b><a href=\"https://associationapps.wufoo.com/forms/q6vzn9a08s3d65/\" class=\"text-white\">Cllick</a> </b>To Submit our form.</p>"
         }
       ]
     }
