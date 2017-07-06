@@ -43,6 +43,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-24",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "text": "<p><a href=\"http://\"><style style=\"\"><endnote> <head> <style></style> <style type=\"text/css\"> .html-marquee {height:100px;width:400px;background-color:black ;font-family:Cursive;font-size:16pt;color:red;border-width:4;border-style:dotted;border-color:ff0000;} </style> </a><marquee class=\"html-marquee\" scrollamount=\"3\" direction=\"up\"><a href=\"http://\"> </a><p style=\"line-height: 15px; text-align: center\"><a href=\"mailto:krazydawgapps@gmail.com\"><style type=\"text/css\"> .html-marquee {height:100px;width:290px;background-color:black ;font-family:Cursive;font-size:14pt;color:red;border-width:4;border-style:dotted;border-color:ff0000;} </style> <marquee class=\"html-marquee\" scrollamount=\"2\" direction=\"up\"> <p style=\"line-height: 15px; text-align: center\"><span style=\"font-weight: bold; font-size:20px; font-style: normal; font-family:  Georgia\"><span style=\"color: rgb(255,0,0)\">Kazy Dawg Apps</span><br> <br> <br style=\"color: rgb(255,0,0)\"> <span style=\"font-weight: normal; font-size: 18px; color: rgb(255,0,0); font-style: italic; font-family: Cursive\">Presents<br> </span></span></p><p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\"><a href=\"mailto :%20myhoabids@gmail.com/ \">Lady Lake Homeowners Association</a></p> <p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\"><a href=\"mailto :%20myhoabids@gmail.com/ \">Click Here To Email Us</a></p> </marquee></a><a href=\"mailto:krazydawgapps@gmail.com\"><style type=\"text/css\" style=\"\"></style></a><a href=\"mail:krazydawgapps@gmail.com\"><style type=\"text/css\"></style></a><a href=\"http://\"><style type=\"text/css\"></style></a><span style=\"font-weight: bold; font-size: 40px; font-style: normal; font-family:  Georgia\"><span style=\"color: rgb(255,0,0)\"> Dawg Apps</span><br> <br> <br style=\"color: rgb(255,0,0)\"> <span style=\"font-weight: normal; font-size: 48px; color: rgb(255,0,0); font-style: italic; font-family: Cursive\">Presents<br> </span></span></p><p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\">Lady Lake Homeowners Association</p> <p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\">Click Here To Email Us</p> </marquee><style type=\"text/css\"></style><a href=\"http://\"><style type=\"text/css\"></style></a>&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "header1",
           "_anchor": "header1-23",
           "_params": {
@@ -67,19 +80,6 @@
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-24",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"http://\"><style><endnote> <head> <style></style> <style type=\"text/css\"> .html-marquee {height:100px;width:400px;background-color:black ;font-family:Cursive;font-size:16pt;color:red;border-width:4;border-style:dotted;border-color:ff0000;} </style> </a><marquee class=\"html-marquee\" scrollamount=\"3\" direction=\"up\"><a href=\"http://\"> </a><p style=\"line-height: 15px; text-align: center\"><a href=\"mailto:krazydawgapps@gmail.com\"><style type=\"text/css\"> .html-marquee {height:100px;width:290px;background-color:black ;font-family:Cursive;font-size:14pt;color:red;border-width:4;border-style:dotted;border-color:ff0000;} </style> <marquee class=\"html-marquee\" scrollamount=\"2\" direction=\"up\"> <p style=\"line-height: 15px; text-align: center\"><span style=\"font-weight: bold; font-size: 40px; font-style: normal; font-family:  Georgia\"><span style=\"color: rgb(255,0,0)\">Kazy Dawg Apps</span><br> <br> <br style=\"color: rgb(255,0,0)\"> <span style=\"font-weight: normal; font-size: 48px; color: rgb(255,0,0); font-style: italic; font-family: Cursive\">Presents<br> </span></span></p><p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\"><a href=\"mailto :%20myhoabids@gmail.com/ \">Lady Lake Homeowners Association</a></p> <p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\"><a href=\"mailto :%20myhoabids@gmail.com/ \">Click Here To Email Us</a></p> </marquee></a><a href=\"mail:krazydawgapps@gmail.com\"><style type=\"text/css\"></style></a><a href=\"http://\"><style type=\"text/css\"></style></a><span style=\"font-weight: bold; font-size: 40px; font-style: normal; font-family:  Georgia\"><span style=\"color: rgb(255,0,0)\"> Dawg Apps</span><br> <br> <br style=\"color: rgb(255,0,0)\"> <span style=\"font-weight: normal; font-size: 48px; color: rgb(255,0,0); font-style: italic; font-family: Cursive\">Presents<br> </span></span></p><p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\">Lady Lake Homeowners Association</p> <p style=\"color: rgb(255,0,0); font-family: verdana,arial,sans-serif; text-align: center\">Click Here To Email Us</p> </marquee><style type=\"text/css\"></style><a href=\"http://\"><style type=\"text/css\"></style></a>&nbsp;</p>"
         },
         {
           "_styles": {
@@ -142,10 +142,10 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
