@@ -50,7 +50,7 @@
             "paddingBottom": "0",
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"mailto:krazydawgapps@gmail.com\"><style> .html-marquee {   height:100px;   width:300px;   background-color:#0b0b0a;   font-family:Cursive;   font-size:14px;   color:#f00707;   font-weight:bold;   border-width:0;   border-style:solid;   border-color:#ff0000; } </style> <marquee class=\"html-marquee\" direction=\"up\" behavior=\"scroll\" scrollamount=\"3\"> <p>Lady Lake Homeowners Association</p> </marquee></a><a href=\"http://\"><style></style></a><b></b></p>"
+          "text": "<p><a href=\"mailto:krazydawgapps@gmail.com\"><style> .html-marquee {   height:50px;   width:300px;   background-color:#0b0b0a;   font-family:Cursive;   font-size:24px;   color:#f00707;   font-weight:bold;   border-width:0;   border-style:solid;   border-color:#ff0000; } </style> <marquee class=\"html-marquee\" direction=\"up\" behavior=\"scroll\" scrollamount=\"4\"> <p>Lady Lake Homeowners Association</p> </marquee></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"http://\"><style></style></a><b></b></p>"
         },
         {
           "_styles": {
