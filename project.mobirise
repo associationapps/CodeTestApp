@@ -108,7 +108,8 @@
               "font-size": "12px"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -123,7 +124,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<p><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a>&nbsp;Brought To You By KrazyDaw Apps</p>"
+          "meta": "<p><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a>&nbsp;Brought To You By Krazy Dawg Apps</p>"
         }
       ]
     },
