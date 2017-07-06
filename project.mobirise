@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 85,
+    "uniqCompNum": 87,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -44,13 +44,24 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2a",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-2d",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"mailto:krazydawgapps@gmail.com\"><style> .html-marquee {   height:70px;   width:300px;   background-color:#0b0b0a;   font-family:Cursive;   font-size120px;   color:#ffffff;   font-weight:bold;   border-width:0;   border-style:solid;   border-color:#ff0000; } </style> <marquee class=\"html-marquee\" direction=\"up\" behavior=\"scroll\" scrollamount=\"3\"> <p>Lady Lake Homeowners Association</p> </marquee></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"mailto:krazydawgapps@gmail.com\"><style></style></a><a href=\"http://\"><style></style></a><b></b></p>"
+          "text": "<p><span style=\"line-height: 1.5;\">Lady Lake Homeowners Association</span></p>"
         },
         {
           "_tags": [
@@ -106,39 +117,9 @@
           "_name": "header3",
           "_anchor": "header3-1s",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#000000",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "<p><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a>&nbsp;Brought To You By KrazyDaw Apps</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "24px",
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ff0000",
-              "text-align": "right",
-              "font-size": "12px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-28",
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#000080",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "",
