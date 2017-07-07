@@ -224,28 +224,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2p",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000080"
-          },
-          "text": "<p><b>Lady Lake</b></p><p><b>Board of Directors</b></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "24px"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
           "_styles": {
             "P": {
               "color": "#000000",
@@ -319,6 +297,28 @@
           },
           "title": "",
           "meta": "<p><b><a href=\"http://#\"><img src=\"https://associationapps.github.io/CodeTestApp/assets/images/bulldog.gif\" alt=\"www.greatcommunities.com\" style=\"width:60px;height:70px;\" class=\"img-circle\"></a>&nbsp;Brought To You By KrazyDaw Apps</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000080"
+          },
+          "text": "<p><b>Lady Lake</b></p><p><b>Board of Directors</b></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "24px"
+            }
+          }
         }
       ]
     },

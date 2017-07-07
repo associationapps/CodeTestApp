@@ -509,12 +509,6 @@ h6,
 
 
 
-#content1-2p P {
-  text-align: center;
-  color: #ffffff;
-  font-family: 'Indie Flower', cursive;
-  font-size: 24px;
-}
 #content1-11 P {
   color: #000000;
   font-family: 'Montserrat', sans-serif;
@@ -544,6 +538,12 @@ h6,
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+}
+#content1-2p P {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 24px;
 }
 #content1-1q P {
   color: #ffffff;
