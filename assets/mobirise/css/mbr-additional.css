@@ -509,24 +509,17 @@ h6,
 
 
 
-
-#content1-10 H1 {
+#content1-2p P {
   text-align: center;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
-}
-#content1-10 P {
-  text-align: center;
   font-family: 'Indie Flower', cursive;
-  font-size: 25px;
-  color: #000000;
+  font-size: 24px;
 }
 #content1-11 P {
   color: #000000;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
-  text-align: left;
+  text-align: center;
 }
 #content1-14 P {
   color: #000000;
