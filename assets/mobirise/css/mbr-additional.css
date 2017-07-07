@@ -543,7 +543,8 @@ h6,
 #header3-16 P {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 11px;
+  text-align: left;
 }
 #content1-1q P {
   color: #ffffff;

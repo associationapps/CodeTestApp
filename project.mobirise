@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -281,7 +281,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>President</b> <b>Bob</b> <b>Smith</b></p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-warning\"><b>bsmith@bsmith.com</b></a></p><p><br></p><p><b>Vice-President Jill Jones</b></p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-warning\"><b>jjones</b>@jjones.com</a></p><p><br></p><p><b>Sec/Tres Betty White</b></p><p><span style=\"font-size: 14px; line-height: 1.5;\"><b>407-927-5207</b></span><br></p><p><a href=\"mailto:bwhite.com\" class=\"text-warning\"><b>bwhite@bwhite.com</b></a></p><p><br></p><p><b><a href=\"index.html\" class=\"text-warning\"><b>Back</b> <b>to Home</b></a></b></p>"
+          "text": "<p><b>President</b> <b>Bob</b> <b>Smith</b></p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-warning\"><b>bsmith@bsmith.com</b></a></p><p><br></p><p><b>Vice-President Jill Jones</b></p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-warning\"><b>jjones</b>@jjones.com</a></p><p><br></p><p><b>Sec/Tres Betty White</b></p><p><span style=\"font-size: 14px; line-height: 1.5;\"><b>407-927-5207</b></span><br></p><p><a href=\"mailto:bwhite.com\" class=\"text-warning\"><b>bwhite@bwhite.com</b></a></p><p><br></p><p><b><a href=\"index.html\" class=\"text-warning\"><b>Back</b> <b>to Home</b></a></b></p><p><b><a href=\"index.html\" class=\"text-warning\"><b><br></b></a></b></p>"
         },
         {
           "_styles": {
@@ -302,7 +302,8 @@
               "color": "#ffffff",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "14px"
+              "font-size": "11px",
+              "text-align": "left"
             }
           },
           "_tags": [
