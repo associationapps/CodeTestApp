@@ -246,7 +246,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Lady Lake</b></p><p><b>Board of Directors&nbsp;</b></p>"
+          "text": "<p>Lady <b>Lake</b></p><p>Board<b> </b>of Directors&nbsp;</p>"
         },
         {
           "_tags": [
@@ -289,7 +289,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>President</b> Bob Smith</p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-warning\">bsmith@bsmith.com</a></p><p><br></p><p>Vice-President Jill Jones</p><p><b>407-927-5207</b></p><p><b>407-927-5207</b></p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-warning\">jjones@jjones.com</a></p><p><br></p><p>Sec/Tres Betty White</p><p>407-927-5207</p><p>407-927-5207</p><p><a href=\"mailto:bwhite.com\" class=\"text-warning\">bwhite@bwhite.com</a></p><p><br></p><p><b><a href=\"index.html\" class=\"text-warning\">Back to Home</a></b></p>"
+          "text": "<p><b>President</b> <b>Bob</b> <b>Smith</b></p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-warning\"><b>bsmith@bsmith.com</b></a></p><p><br></p><p><b>Vice-President Jill Jones</b></p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-warning\"><b>jjones</b>@jjones.com</a></p><p><br></p><p><b>Sec/Tres Betty White</b></p><p><span style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</span><br></p><p><a href=\"mailto:bwhite.com\" class=\"text-warning\"><b>bwhite@bwhite.com</b></a></p><p><br></p><p><b><a href=\"index.html\" class=\"text-warning\"><b>Back</b> <b>to Home</b></a></b></p>"
         },
         {
           "_styles": {
