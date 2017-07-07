@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -244,7 +244,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#ffa500"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><b>Board of Directors&nbsp;</b></p>"
         },
@@ -266,9 +266,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffa500"
+            "bgColor": "#c1c1c1"
           },
-          "text": "<p>Welcome to your Board of Directors' home page. &nbsp;Don't forget to visit our management company, Specialty Managment Company, at&nbsp;<b style=\"font-size: 14px; line-height: 1.5;\"><a href=\"http://greatcommunities.com\" target=\"_blank\" class=\"text-white\">greatcommunities.com</a> </b><span style=\"font-size: 14px; line-height: 1.5;\">&nbsp;We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. </span><a href=\"http://greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" target=\"_blank\" class=\"text-white\" style=\"font-size: 14px; background-color: rgb(255, 165, 0); line-height: 1.5;\">&nbsp;Click To Pay </a><span style=\"font-size: 14px; line-height: 1.5;\">.</span></p><p><br></p><p>Your Board of Directors are:</p>"
+          "text": "<p>Welcome to your Board of Directors' home page. &nbsp;Don't forget to visit our management company, Specialty Managment Company, at<b>&nbsp;<span style=\"font-size: 14px; line-height: 1.5;\"><a href=\"http://greatcommunities.com\" target=\"_blank\" class=\"text-warning\">greatcommunities.com</a> </span></b><span style=\"font-size: 14px; line-height: 1.5;\"><b>&nbsp;</b>We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. </span><a href=\"http://greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" target=\"_blank\" class=\"text-warning\" style=\"font-size: 14px; background-color: rgb(255, 165, 0); line-height: 1.5;\">&nbsp;Click To Pay </a><span style=\"font-size: 14px; line-height: 1.5;\">.</span></p><p><br></p><p>Your Board of Directors are:</p>"
         },
         {
           "_tags": [
@@ -287,9 +287,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffa500"
+            "bgColor": "#c1c1c1"
           },
-          "text": "<p><b>President</b> Bob Smith</p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-white\">bsmith@bsmith.com</a></p><p><br></p><p>Vice-President Jill Jones</p><p><b>407-927-5207</b></p><p><b>407-927-5207</b></p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-white\">jjones@jjones.com</a></p><p><br></p><p>Sec/Tres Betty White</p><p>407-927-5207</p><p>407-927-5207</p><p><a href=\"mailto:bwhite.com\" class=\"text-white\">bwhite@bwhite.com</a></p><p><br></p><p><b><a href=\"index.html\" class=\"text-danger\">Back to Home</a></b></p>"
+          "text": "<p><b>President</b> Bob Smith</p><p><b style=\"font-size: 14px; line-height: 1.5;\">407-927-5207</b><br></p><p><a href=\"mailto:bsmith@bsmith.com\" class=\"text-warning\">bsmith@bsmith.com</a></p><p><br></p><p>Vice-President Jill Jones</p><p><b>407-927-5207</b></p><p><b>407-927-5207</b></p><p><a href=\"mailto:jjones@jjones.com\" class=\"text-warning\">jjones@jjones.com</a></p><p><br></p><p>Sec/Tres Betty White</p><p>407-927-5207</p><p>407-927-5207</p><p><a href=\"mailto:bwhite.com\" class=\"text-warning\">bwhite@bwhite.com</a></p><p><br></p><p><b><a href=\"index.html\" class=\"text-warning\">Back to Home</a></b></p>"
         },
         {
           "_styles": {
@@ -307,7 +307,7 @@
               "font-size": "12px"
             },
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "14px"
@@ -321,7 +321,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffa500",
+            "bgColor": "#000080",
             "showMeta": true
           },
           "title": "",
