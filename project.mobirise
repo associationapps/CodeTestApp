@@ -230,7 +230,7 @@
             "paddingBottom": "0",
             "bgColor": "#000080"
           },
-          "text": "<p>Lady Lake</p><p>Board of Directors</p>",
+          "text": "<p><b>Lady Lake</b></p><p><b>Board of Directors</b></p>",
           "_styles": {
             "P": {
               "text-align": "center",
