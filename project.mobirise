@@ -234,8 +234,8 @@
             },
             "P": {
               "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "25px",
               "color": "#000000"
             }
@@ -246,7 +246,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Board of Directors&nbsp;</b></p>"
+          "text": "<p><b>Lady Lake</b></p><p><b>Board of Directors&nbsp;</b></p>"
         },
         {
           "_tags": [
