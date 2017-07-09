@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "page1.html",
+    "currentPage": "samplepage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 99,
+    "uniqCompNum": 115,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -223,13 +223,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2p",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000080"
-          },
-          "text": "<p><b>Lady Lake</b></p><p><b>Board of Directors</b></p>",
           "_styles": {
             "P": {
               "text-align": "center",
@@ -238,7 +231,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "24px"
             }
-          }
+          },
+          "_anchor": "content1-2p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000080"
+          },
+          "text": "<p><b>Lady Lake</b></p><p><b>Board of Directors</b></p>"
         },
         {
           "_tags": [
@@ -345,6 +345,27 @@
             "bgColor": "#ffa500"
           },
           "text": "<p><b><a href=\"https://associationapps.wufoo.com/forms/q6vzn9a08s3d65/\" class=\"text-white\">Cllick</a> To Submit our form.</b></p>"
+        }
+      ]
+    },
+    "samplepage.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-36",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c0a375"
+          },
+          "text": "<p><a href=\"http://\"><link href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css\" rel=\"stylesheet\"> </a></p>"
         }
       ]
     }
