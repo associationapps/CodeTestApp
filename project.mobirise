@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 117,
+    "uniqCompNum": 118,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -358,14 +358,14 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-38",
+          "_name": "content1",
+          "_anchor": "content1-39",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#c0a375"
           },
-          "text": "<blockquote><p><a href=\"http://\"><title>test</title><link href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css\" rel=\"stylesheet\"></a></p></blockquote>"
+          "text": "<p><a href=\"http://\">    <title></title>   <section class=\"section-white\"> </section> </a></p>"
         }
       ]
     }
