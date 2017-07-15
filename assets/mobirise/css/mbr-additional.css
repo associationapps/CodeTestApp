@@ -1,6 +1,6 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
@@ -461,14 +461,14 @@ h6,
 #menu-2q .link,
 #menu-2q .dropdown-item {
   color: #ffffff;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Lora', serif;
 }
 #menu-2q .link {
-  font-size: 1.4rem;
+  font-size: 0.7rem;
 }
 #menu-2q .dropdown-item,
 #menu-2q .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 0.758rem;
 }
 #menu-2q .link:hover,
 #menu-2q .dropdown-item:hover,
