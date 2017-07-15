@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -460,6 +461,7 @@ h6,
 #menu-2q .link,
 #menu-2q .dropdown-item {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
 }
 #menu-2q .link {
   font-size: 1.4rem;
@@ -516,15 +518,16 @@ h6,
   font-size: 24px;
 }
 #content1-11 P {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
-  text-align: center;
+  text-align: left;
 }
 #content1-14 P {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+  text-align: left;
 }
 #header3-16 .mbr-section-title,
 #header3-16 .mbr-section-subtitle {
@@ -548,4 +551,65 @@ h6,
 }
 #content1-1q P {
   color: #ffffff;
+}
+#ext_menu-3g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3g .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3g .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-3g .close-icon::before,
+#ext_menu-3g .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-3g .link,
+#ext_menu-3g .dropdown-item {
+  color: #000000;
+}
+#ext_menu-3g .link {
+  font-size: 1.8rem;
+}
+#ext_menu-3g .dropdown-item,
+#ext_menu-3g .nav-dropdown-sm .link {
+  font-size: 1.949rem;
+}
+#ext_menu-3g .link:hover,
+#ext_menu-3g .dropdown-item:hover,
+#ext_menu-3g .link:focus,
+#ext_menu-3g .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-3g .link[aria-expanded="true"],
+#ext_menu-3g .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-3g .nav-dropdown-sm .link:focus,
+#ext_menu-3g .nav-dropdown-sm .link:hover,
+#ext_menu-3g .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3g .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-3g .navbar,
+#ext_menu-3g .nav-dropdown-sm,
+#ext_menu-3g .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3g .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-3g .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-3g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3g .bg-color.transparent.opened .link:hover,
+#ext_menu-3g .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-3g .link[aria-expanded="true"],
+#ext_menu-3g .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
 }
